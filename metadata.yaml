@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5278'
     url: http://www.gutenberg.org/2009/agents/5278
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13898#Don-Strong-Patrol-Leader
 gutenberg_issued: '2004-10-31'
 gutenberg_type: Text
 identifiers:
