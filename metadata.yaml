@@ -1,0 +1,27 @@
+_repo: Don-Strong-Patrol-Leader_13898
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heyliger, William
+    birthdate: 1884
+    deathdate: 1955
+    gutenberg_agent_id: '5278'
+    url: http://www.gutenberg.org/2009/agents/5278
+description: ''
+gutenberg_issued: '2004-10-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13898'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Baseball -- Juvenile fiction'
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+title: Don Strong, Patrol Leader
+url: http://www.gutenberg.org/ebooks/13898
